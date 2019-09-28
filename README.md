@@ -1,5 +1,5 @@
 # Чубок Вадим 
 
-[HUK](vadimchubok.github.io "Мої домашкі")
+[HUK](https://vadimchubok.github.io/github/Site/ "Мої домашкі")
 
 
